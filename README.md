@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/clarkzhong/Clark%20Pipeline%20Demo/_apis/build/status/smartdevskill.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/clarkzhong/Clark%20Pipeline%20Demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
